@@ -1,0 +1,6 @@
+[submodule "lib/ESP8266_Spiram"]
+	path = lib/ESP8266_Spiram
+	url = https://github.com/Gianbacchio/ESP8266_Spiram
+[submodule "lib/ESP8266Audio"]
+	path = lib/ESP8266Audio
+	url = https://github.com/earlephilhower/ESP8266Audio
