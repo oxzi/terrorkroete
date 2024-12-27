@@ -19,7 +19,7 @@ transparent plates are flickering randomly and the red eyes are glowing. When
 the song stops, the flickering disappears and only the eyes are still glowing.
 Pressing the top plate resets our turtle.
 
-A demonstration is available [online][twitter-kroete].
+A demonstration [is available](terrorkroete.mp4).
 
 
 ## Creating the Song or *"It does not compile!!!11"*
@@ -47,5 +47,4 @@ pio run -t upload
 ```
 
 
-[twitter-kroete]: https://twitter.com/lnrthm/status/1074763025381498881
 [platformio]: https://platformio.org/
